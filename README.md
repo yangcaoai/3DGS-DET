@@ -14,3 +14,22 @@
 &#9744; The code and data will be released within a month of the paper's acceptance. Please stay tuned!
 
 &#9745; Our paper 3DGS-DET is released, check out it on [arXiv](https://arxiv.org/abs/2406.00830)! 
+
+## Boundary Guidance
+<img src="assets/fig1.png">
+
+
+## Pipeline of 3DGS for 3D Object Detection
+<img src="assets/fig2.png">
+
+## Methods
+<img src="assets/fig3.png">
+
+## Detection Samples
+<img src="assets/fig4.png">
+
+## Guidance from Different Priors
+<img src="assets/fig5.png">
+
+## Rendered Images
+<img src="assets/fig6.png">
