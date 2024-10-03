@@ -33,3 +33,22 @@
 
 ## Rendered Images
 <img src="assets/fig6.png">
+
+
+## :scroll: BibTeX
+Cite 3DGS-DET by:
+```
+@article{3dgsdet,
+      title={3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection}, 
+      author={Yang Cao and Yuanliang Jv and Dan Xu},
+    journal={arXiv preprint arXiv:2410.01647},
+    year={2024}
+}
+```
+
+## :e-mail: Contact
+
+If you have any question or collaboration needs, please email `yangcao.cs@gmail.com`.
+
+## :scroll: Acknowledgement
+3DGS-DET is implemented based on [3DGS](https://github.com/graphdeco-inria/gaussian-splatting) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d). We appreciate their great codes.
