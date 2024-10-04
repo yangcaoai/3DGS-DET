@@ -47,7 +47,7 @@ Object Detection (3DOD). Star 3DGS-DET ⭐ and share it. Thanks🔥 </small>
 <img src="assets/fig6.png">
 
 
-## :scroll: BibTeX
+## BibTeX
 Cite 3DGS-DET by:
 ```
 
@@ -62,9 +62,9 @@ Cite 3DGS-DET by:
 }
 ```
 
-## :e-mail: Contact
+## Contact
 
 If you have any question or collaboration needs, please email `yangcao.cs@gmail.com`.
 
-## :scroll: Acknowledgement
+## Acknowledgement
 3DGS-DET is implemented based on [3DGS](https://github.com/graphdeco-inria/gaussian-splatting) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d). We appreciate their great codes.
