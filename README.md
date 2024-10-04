@@ -1,7 +1,7 @@
 ## :book: 3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection
 <p align="center">
-  <small> 🔥The first work to introduce 3DGS into 3D
-Object Detection (3DOD). Star 3DGS-DET ⭐ and share it. Thanks🔥 </small>
+  <small> 🔥The first work to introduce 3D Gaussian Splatting into 3D
+Object Detection. Star 3DGS-DET ⭐ and share it. Thanks🔥 </small>
 </p>
 
 > [[Paper](https://arxiv.org/abs/2410.01647)] &emsp;  <br>
