@@ -53,7 +53,7 @@ Cite 3DGS-DET by:
 
 @misc{3dgsdet,
       title={3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection}, 
-      author={Yang Cao and Yuanliang Jv and Dan Xu},
+      author={Yang Cao and Yuanliang Ju and Dan Xu},
       year={2024},
       eprint={2410.01647},
       archivePrefix={arXiv},
