@@ -12,11 +12,11 @@ Object Detection. ⭐Star 3DGS-DET. Thanks🔥 </small>
 
 :triangular_flag_on_post: **Updates**  
 
-&#9745; Being **<a href="https://huggingface.co/papers?date=2024-10-03" style="color: #FF5733; font-weight: bold;">Top-5</a>** in Hugging Face Daily Papers !
+&#9745; Being **<a href="https://huggingface.co/papers?date=2024-10-03" style="color: #FF5733; font-weight: bold;">Top-5</a>** in Hugging Face Daily Papers!
 
-&#9744; The code and data will be released within a month of the paper's acceptance. Please stay tuned!
+&#9744; The code and data will be released within a month of the paper's acceptance. Please stay tuned.
 
-&#9745; Our paper 3DGS-DET is released, check out it on [arXiv](https://arxiv.org/abs/2410.01647)! 
+&#9745; Our paper 3DGS-DET is released, check out it on [arXiv](https://arxiv.org/abs/2410.01647).
 
 ## Table of Contents
 - [Boundary Guidance](#Boundary-Guidance)
