@@ -52,15 +52,11 @@ Object Detection. ⭐Star 3DGS-DET. Thanks🔥 </small>
 ## BibTeX
 Cite 3DGS-DET by:
 ```
-
-@misc{3dgsdet,
-      title={3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection}, 
-      author={Yang Cao and Yuanliang Ju and Dan Xu},
-      year={2024},
-      eprint={2410.01647},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2410.01647}, 
+@article{cao20243dgs,
+  title={3dgs-det: Empower 3d gaussian splatting with boundary guidance and box-focused sampling for 3d object detection},
+  author={Cao, Yang and Ju, Yuanliang and Xu, Dan},
+  journal={arXiv preprint arXiv:2410.01647},
+  year={2024}
 }
 ```
 
