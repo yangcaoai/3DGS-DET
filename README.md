@@ -62,7 +62,7 @@ Cite 3DGS-DET by:
 
 ## Contact
 
-If you have any question or collaboration needs, please email `yangcao.cs@gmail.com`.
+If you have any question, please email `yangcao.cs@gmail.com`.
 
 ## Acknowledgement
 We sincerely thanks to these great open source projects:: [NeRF-Det](https://github.com/facebookresearch/NeRF-Det), [CN-RMA](https://github.com/SerCharles/CN-RMA), [ImGeoNet](https://github.com/ttaoREtw/ImGeoNet), [3DGS](https://github.com/graphdeco-inria/gaussian-splatting), [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), etc. As it is not possible to list all the referenced works. If you find we leave out your repo, please contact us and we'll update the list.
