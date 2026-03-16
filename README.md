@@ -20,7 +20,6 @@ Object Detection. ⭐Star 3DGS-DET. Thanks🔥 </small>
 
 ## Table of Contents
 - [Boundary Guidance](#Boundary-Guidance)
-- [Pipeline of 3DGS for 3D Object Detection](#Pipeline-of-3DGS-for-3D-Object-Detection)
 - [Methods](#Methods)
 - [Detection Samples](#Detection-Samples)
 - [Guidance from Different Priors](#Guidance-from-Different-Priors)
