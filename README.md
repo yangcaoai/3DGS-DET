@@ -1,6 +1,6 @@
-## :book: 3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection
+## :book: 3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for Indoor 3D Object Detection
 <p align="center">
-  <small> 🔥The first work to introduce 3D Gaussian Splatting into 3D
+  <small> 🔥The first work to introduce 3D Gaussian Splatting into Indoor 3D
 Object Detection. ⭐Star 3DGS-DET. Thanks🔥 </small>
 </p>
 
@@ -16,7 +16,7 @@ Object Detection. ⭐Star 3DGS-DET. Thanks🔥 </small>
 
 &#9744; The code and data will be released within a month of the paper's acceptance. Please stay tuned.
 
-&#9745; Our paper 3DGS-DET is released, check out it on [arXiv](https://arxiv.org/abs/2410.01647).
+&#9745; Our paper 3DGS-DET is released, check out it on [arXiv](https://arxiv.org/pdf/2410.01647).
 
 ## Table of Contents
 - [Boundary Guidance](#Boundary-Guidance)
@@ -53,7 +53,7 @@ Object Detection. ⭐Star 3DGS-DET. Thanks🔥 </small>
 Cite 3DGS-DET by:
 ```
 @article{cao20243dgs,
-  title={3dgs-det: Empower 3d gaussian splatting with boundary guidance and box-focused sampling for 3d object detection},
+  title={3dgs-det: Empower 3d gaussian splatting with boundary guidance and box-focused sampling for Indoor 3d object detection},
   author={Cao, Yang and Ju, Yuanliang and Xu, Dan},
   journal={arXiv preprint arXiv:2410.01647},
   year={2024}
