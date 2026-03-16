@@ -48,7 +48,7 @@ Object Detection. ⭐Star 3DGS-DET. Thanks🔥 </small>
 Cite 3DGS-DET by:
 ```
 @article{cao20243dgs,
-  title={3dgs-det: Empower 3d gaussian splatting with boundary guidance and box-focused sampling for Indoor 3d object detection},
+  title={3dgs-det: Empower 3d gaussian splatting with boundary guidance and box-focused sampling for indoor 3d object detection},
   author={Cao, Yang and Ju, Yuanliang and Xu, Dan},
   journal={arXiv preprint arXiv:2410.01647},
   year={2024}
