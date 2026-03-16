@@ -32,12 +32,8 @@ Object Detection. ⭐Star 3DGS-DET. Thanks🔥 </small>
 ## Boundary Guidance
 <img src="assets/fig1.png">
 
-
-## Pipeline of 3DGS for 3D Object Detection
-<img src="assets/fig2.png">
-
 ## Methods
-<img src="assets/fig3.png">
+<img src="assets/method.png">
 
 ## Detection Samples
 <img src="assets/fig4.png">
