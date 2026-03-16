@@ -4,7 +4,7 @@
 Object Detection. ⭐Star 3DGS-DET. Thanks🔥 </small>
 </p>
 
-> [[Paper](https://arxiv.org/abs/2410.01647)] &emsp;  <br>
+> [[Paper](https://arxiv.org/pdf/2410.01647)] &emsp;  <br>
 <!-- > [Yang Cao](https://yangcaoai.github.io/), Yihan Zeng, [Hang Xu](https://xuhangcn.github.io/), [Dan Xu](https://www.danxurgb.net) <br> -->
 <!-- > The Hong Kong University of Science and Technology, Huawei Noah's Ark Lab -->
 > [Yang Cao*](https://yangcaoai.github.io/), [Yuanliang Ju*](https://x.com/averyjuuu0213), [Dan Xu](https://www.danxurgb.net) <br>
