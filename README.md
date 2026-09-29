@@ -1,6 +1,6 @@
 ## :book: 3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for Indoor 3D Object Detection
 <p align="center">
-  <small> 🔥The first work to introduce 3D Gaussian Splatting into Indoor 3D
+  <small> 🔥Introduce 3D Gaussian Splatting into Indoor 3D
 Object Detection. ⭐Star 3DGS-DET. Thanks🔥 </small>
 </p>
 
